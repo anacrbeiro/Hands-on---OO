@@ -21,6 +21,7 @@
 
 
      -------------------------------------------------------------
+     
      2. import java.util.ArrayList;
 
 public class Notas {
@@ -53,6 +54,7 @@ public class Notas {
 }
 
      -------------------------------------------------------------
+     
      3. import javaapplication5;
 
 public class Presenca {
@@ -100,6 +102,7 @@ public class Alunos {
 }
 
      -------------------------------------------------------------
+     
 5. import javaapplication5;
 import java.util.Queue;
 
@@ -129,6 +132,7 @@ public class FilaClientes {
 }
 
      -------------------------------------------------------------
+     
      6. public class Livro {
 
     int codigo;
@@ -232,6 +236,7 @@ public class Main {
 }
 
      -------------------------------------------------------------
+     
      7. public class Pedido {
 
     int numero;
